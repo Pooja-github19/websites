@@ -194,7 +194,7 @@
         <externalId>false</externalId>
         <label>Field Four</label>
         <trackTrending>false</trackTrending>
-        <type>Email</type>
+        <type>Checkbox</type>
     </fields>
     <validationRules>
         <fullName>DemoValidationRuleOne</fullName>
